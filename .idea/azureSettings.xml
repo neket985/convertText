@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AzureSettings">
+    <option name="storageAccount" value="rO0ABXVyAExbTGNvbS5taWNyb3NvZnRvcGVudGVjaG5vbG9naWVzLmF6dXJlY29tbW9ucy5zdG9yYWdlcmVnaXN0cnkuU3RvcmFnZUFjY291bnQ7lcwAzqc4SBYCAAB4cAAAAAA=" />
+    <option name="appInsights" value="rO0ABXVyAEtbTGNvbS5taWNyb3NvZnQuYXBwbGljYXRpb25pbnNpZ2h0cy5wcmVmZXJlbmNlLkFwcGxpY2F0aW9uSW5zaWdodHNSZXNvdXJjZTvCzxEP0C2HbAIAAHhwAAAAAXNyAEhjb20ubWljcm9zb2Z0LmFwcGxpY2F0aW9uaW5zaWdodHMucHJlZmVyZW5jZS5BcHBsaWNhdGlvbkluc2lnaHRzUmVzb3VyY2WxEcIMedakQAIAB1oACGltcG9ydGVkTAASaW5zdHJ1bWVudGF0aW9uS2V5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAIbG9jYXRpb25xAH4AA0wADXJlc291cmNlR3JvdXBxAH4AA0wADHJlc291cmNlTmFtZXEAfgADTAAOc3Vic2NyaXB0aW9uSWRxAH4AA0wAEHN1YnNjcmlwdGlvbk5hbWVxAH4AA3hwAXQAJGY5ZjRkZGQ1LWNhMjItNGZmYi1iNWVkLTY4MzAwOTRkNWJkMnQACkNlbnRyYWwgVVN0AAVncm91cHQACzNkcHJpbnR0aGlzdAAkMThlMDcxOWUtYzEwMC00ODYyLWFmYjQtNGI2NjllZTg3ZTZidAAKRHJlYW1TcGFyaw==" />
+    <option name="properties">
+      <map>
+        <entry key="com.microsoft.intellij.AzureSubscriptions" value="{}" />
+        <entry key="com.microsoft.intellij.AzureUserInfo" value="null" />
+        <entry key="com.microsoft.intellij.AzureUserSubscriptions" value="{}" />
+        <entry key="com.microsoft.intellij.PluginVersion" value="0.1.1" />
+      </map>
+    </option>
+  </component>
+</project>
